@@ -1,0 +1,4 @@
+SoMiPla
+=======
+
+Winmine player
